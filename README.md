@@ -23,7 +23,7 @@ Para este proyecto, he utilizado:
 
 ![imagen](./img/css%20html.jpg)
 
-Puedes ver este proyecto en ⇥ GitHub pages
+Puedes ver este proyecto en ⇥ [GitHub pages](https://github.com/Alexm0u/amc-geekshub-fsd-project1.git)
 
 -----------------------------------------------------
 Autor: Àlex Moya
