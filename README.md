@@ -5,7 +5,7 @@ Hola!
 ![image](./img/Henlo%20fren.gif)
 
 👋 Soy Àlex Moya.
-💻 Estudiante de FullStack Developer en ⇥ ![image](./img/geekshub%20logo.png)
+💻 Estudiante de FullStack Developer en GeeksHubs Academy.
 
 ----------------------------------------------------
 
